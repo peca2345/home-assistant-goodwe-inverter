@@ -20,7 +20,7 @@ Use at own risk.
 If you have been using this custom component and want to migrate to standard HA integration, the migration is straightforward. Just remove the integration from HACS (press Ignore and force uninstall despite the warning the integration is still configured). Atrer restart of Home Assistant, the standard Goodwe integration will start and all your existing settings, entity names, history and statistics should be preserved.
 
 (If you uninstall the integration first, then uninstall HACS component and install integration back again, it will also work, but you will probably loose some history and settings since HA integration uses slightly different default entity names.)
-
+123123123123123
 ## Home Assistant Energy Dashboard
 
 The integration provides several values suitable for the energy dashboard introduced to HA in v2021.8.
